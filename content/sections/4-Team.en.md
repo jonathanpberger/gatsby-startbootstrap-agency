@@ -1,6 +1,6 @@
 ---
 anchor: "Team"
-header: "Our Amazing Team"
+header: "Our Team"
 subheader: "Bacon ipsum dolor amet sausage biltong ground round, spare ribs chuck short loin swine brisket filet mignon salami strip steak jerky."
 content: "Bacon ipsum dolor amet strip steak sausage pork belly bresaola. Pig ground round tail pork capicola. Ribeye kielbasa leberkas chislic alcatra. Hamburger strip steak pork chop shoulder, chuck alcatra ham meatloaf brisket frankfurter t-bone cow.
 
