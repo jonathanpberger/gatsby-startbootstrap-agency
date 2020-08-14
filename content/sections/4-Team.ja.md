@@ -5,7 +5,7 @@ subheader: "あなたは偶然断然その持通りについて事のために�
 content: "あなたは偶然断然その持通りについて事のためにまかり出ですた。もう元来を説明心はとうとうこのお話しないななどでいて行くたでは滅亡しましでて、再びにはなったうないです。"
 teamMember: [
   {
-    imageFileName: "team/1.jpg",
+    imageFileName: "team/1.png",
     header: "Kay Garland",
     subheader: "Lead Designer",
     social: {
@@ -15,7 +15,7 @@ teamMember: [
     }
   },
   {
-    imageFileName: "team/2.jpg",
+    imageFileName: "team/2.png",
     header: "Larry Parker",
     subheader: "Lead Marketer",
     social: {
@@ -25,7 +25,7 @@ teamMember: [
     }
   },
   {
-    imageFileName: "team/3.jpg",
+    imageFileName: "team/3.png",
     header: "Diana Pertersen",
     subheader: "Lead Developer",
     social: {
