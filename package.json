@@ -80,6 +80,7 @@
     "clean": "gatsby clean",
     "build": "gatsby build",
     "dev": "gatsby develop",
+    "develop": "gatsby develop",
     "format": "prettier --write src/**/*.{js,jsx}",
     "serve": "gatsby serve",
     "eslint": "eslint ./src",
