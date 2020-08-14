@@ -1,6 +1,6 @@
 ---
-header: "It's Nice To Meet You"
-subheader: "Welcome To Our Studio!"
+header: "Hamazon Investment Partners"
+subheader: "We partner with founders to build lasting businesses"
 imageFileName: "header-bg.jpg"
 jumpToAnchor: "Services"
 jumpToAnchorText: "Tell Me More"
