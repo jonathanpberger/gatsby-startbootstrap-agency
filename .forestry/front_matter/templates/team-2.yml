@@ -1,4 +1,9 @@
 ---
 label: team-2
 hide_body: false
-fields: []
+fields:
+- name: header
+  type: text
+  config:
+    required: false
+  label: Foo header
