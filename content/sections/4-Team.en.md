@@ -11,9 +11,6 @@ teamMember: [
     header: "Jon Hogg",
     subheader: "Principal Investor",
     social: {
-      twitter: "#",
-      facebook: "#",
-      linkedin: "#"
     }
   },
   {
@@ -21,9 +18,6 @@ teamMember: [
     header: "Terry McBacon",
     subheader: "Principal Investor",
     social: {
-      twitter: "#",
-      facebook: "#",
-      medium: "#"
     }
   },
   {
@@ -31,9 +25,6 @@ teamMember: [
     header: "Gregg Pancetta",
     subheader: "Investor",
     social: {
-      twitter: "#",
-      facebook: "#",
-      medium: "#"
     }
   },
 ]
