@@ -6,7 +6,7 @@ timeline: [
   {
     imageFileName: "about/1.png",
     header: "1996-1999",
-    subheader: "We were here at the beginning",
+    subheader: "We were here at the beginning, with BEDco",
     content: "Bacon ipsum dolor amet sausage biltong ground round, spare ribs chuck short loin swine brisket filet mignon salami strip steak jerky."
   },
   {
